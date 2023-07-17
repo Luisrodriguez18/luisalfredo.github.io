@@ -17,8 +17,42 @@
     
     }
     
+    .fsociales{
     
+        background-image: url("Imagen.jpeg.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        }
+    .ftecnologia{
+
+            background-image: url("lionel.jpeg");
+            background-size: cover;
+            background-repeat: no-repeat; 
     
+        } 
+
+        .fbiologia{
+    
+            background-image: url("imagen3.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            
+            }
+
+            .freligion{
+    
+                background-image: url("caracortada.jpeg");
+                background-size: cover;
+                background-repeat: no-repeat;
+                
+                }
+
+
+
+
+
+
     .img{
     
     position: relative;
