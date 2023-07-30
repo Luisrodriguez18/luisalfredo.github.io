@@ -206,6 +206,57 @@
         
         
         }
+
+        .biologiaa{
+
+            height: 200px;
+            
+            width: 100;
+            
+            position: absolute;
+            
+            top: 280px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenbiologia{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("aaaaaa.png");
+            
+            }
+            
+            
+            
+            .textobiologia{
+            
+            text-align: justify;
+            
+            color: rgb(255, 255, 255);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+    
     
     
    
