@@ -79,7 +79,7 @@
     
     left: 180px;
     
-    background-image: url("image.png");
+    background-image: url("9k.png");
     
     }
     
@@ -104,15 +104,15 @@
      
     
     }
-    .contenido{
+    .sociales1{
 
-        height: 280px;
+        height: 200px;
         
-        width: 100%;
+        width: 100;
         
         position: absolute;
         
-        top: 410px;
+        top: 280px;
         
          
         
@@ -120,7 +120,7 @@
         
          
         
-        .imagentecno{
+        .imagensociales{
         
          
         
@@ -142,7 +142,60 @@
         
         
         
-        .textotecno{
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+
+
+        
+        .matematicass{
+        
+        height: 200px;
+        
+        width: 1000%;
+        
+        position: absolute;
+        
+        top: 280px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagenmatematicas{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("download.png");
+        
+        }
+        
+        
+        
+        .textomatematicas{
         
         text-align: justify;
         
@@ -153,3 +206,6 @@
         
         
         }
+    
+    
+   
