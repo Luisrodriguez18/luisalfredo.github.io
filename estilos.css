@@ -19,14 +19,14 @@
     
     .fsociales{
     
-        background-image: url("Imagen.jpeg.jpg");
+        background-image: url("sociales.png");
         background-size: cover;
         background-repeat: no-repeat;
         
         }
     .ftecnologia{
 
-            background-image: url("lionel.jpeg");
+            background-image: url("tecnologia.jpg");
             background-size: cover;
             background-repeat: no-repeat; 
     
@@ -34,7 +34,7 @@
 
         .fbiologia{
     
-            background-image: url("imagen3.jpg");
+            background-image: url("biologia.png");
             background-size: cover;
             background-repeat: no-repeat;
             
@@ -42,11 +42,19 @@
 
             .freligion{
     
-                background-image: url("caracortada.jpeg");
+                background-image: url("1-39-724x1024.jpg");
                 background-size: cover;
                 background-repeat: no-repeat;
                 
                 }
+                .fmate{
+    
+                    background-image: url("matematicas.png");
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    
+                    }
+            
 
 
 
@@ -128,7 +136,7 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("9k.png");
         
         }
         
